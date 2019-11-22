@@ -1,2 +1,3 @@
 # tutorials-and-howto
-A selection of tutorials and how-to documents I've made that others may find useful
+
+1. [Connecting Uptime Robot to Discord without Third Party Services](https://github.com/braindigitalis/tutorials-and-howto/wiki/Connecting-Uptime-Robot-to-Discord-without-third-party-services)
